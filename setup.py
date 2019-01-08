@@ -8,7 +8,7 @@
 from setuptools import setup
 
 setup(
-    name='pylsd',
+    name='ocrd-fork-pylsd',
     version='0.0.3',
     description='pylsd is the python bindings for LSD - Line Segment Detector',
     long_description=open('README.md').read(),
