@@ -1,6 +1,9 @@
 pylsd
 =============
 
+[![Build Wheels](https://github.com/kba/pylsd/actions/workflows/wheels.yml/badge.svg?branch=pypi-fork)](https://github.com/kba/pylsd/actions/workflows/wheels.yml)
+[![PyPI Relase](https://img.shields.io/pypi/v/ocrd-fork-pylsd.svg)](https://pypi.org/project/ocrd-fork-pylsd/)
+
 ### 1. Introduction
 
 pylsd is the python bindings for [LSD - Line Segment Detector](http://www.ipol.im/pub/art/2012/gjmr-lsd/).
