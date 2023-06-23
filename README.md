@@ -14,12 +14,12 @@ This package uses distutils, which is the default way of installing python modul
 ```
 git clone https://github.com/primetang/pylsd.git
 cd pylsd
-[sudo] python setup.py install
+python setup.py install
 ```
 
 Or directly through `pip` to install it:
 ```
-[sudo] pip install pylsd
+pip install pylsd
 ```
 
 ### 3. Usage
