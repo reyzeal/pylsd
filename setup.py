@@ -11,7 +11,7 @@ clib = Extension('pylsd.lib',
 
 setup(
     name='ocrd-fork-pylsd',
-    version='0.0.6',
+    version='0.0.7',
     description='pylsd is the python bindings for LSD - Line Segment Detector',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
