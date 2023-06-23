@@ -1439,7 +1439,7 @@ static double rect_nfa(struct rect *rec, image_double angles, double logNT)
       lambda2 = ( Ixx + Iyy - sqrt( (Ixx-Iyy)^2 + 4.0*Ixy*Ixy) ) / 2
 
     To get the line segment direction we want to get the angle the
-    eigenvector assotiated to the smaller eigenvalue. We have to solve
+    eigenvector associated to the smaller eigenvalue. We have to solve
     a,b in:
 
       a.Ixx + b.Ixy = a.lambda2
