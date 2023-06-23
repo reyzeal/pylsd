@@ -18,7 +18,7 @@ setup(
     author='Gefu Tang',
     author_email='tanggefu@gmail.com',
     maintainer='kba',
-    license='BSD',
+    license='AGPL',
     keywords=["LSD", 'line segmentation'],
     url='https://github.com/OCR-D/pylsd',
     packages=['pylsd', 'pylsd.bindings'],
